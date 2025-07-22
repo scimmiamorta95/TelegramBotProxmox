@@ -71,7 +71,7 @@ The bot will run in the background and you can start interacting with it on Tele
 
 ---
 
-## 💬 Available Commands
+## Available Commands
 
 | Command           | Description                           |
 |-------------------|-------------------------------------|
@@ -92,15 +92,3 @@ Only users whose Telegram IDs are listed in `AUTHORIZED_USERS` can use the bot.
 To find your Telegram ID, you can use the [@userinfobot](https://t.me/userinfobot).
 
 ---
-
-## 🛡️ Security
-
-⚠️ Never commit your `.env` file with real credentials.
-
-The `.gitignore` is already configured to ignore it.
-
----
-
-## 📄 License
-
-This project is distributed under the MIT License. Feel free to modify and share it.
