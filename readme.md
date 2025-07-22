@@ -26,7 +26,7 @@ A **Telegram bot** written in Python to manage **virtual machines (VMs)** and **
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Clone the project
 
@@ -61,7 +61,7 @@ PROXMOX_TOKEN_VALUE=your-proxmox-api-token
 VERIFY_SSL=False
 ```
 
-### ▶️ Start the bot
+### Start the bot
 
 ```bash
 python bot.py
