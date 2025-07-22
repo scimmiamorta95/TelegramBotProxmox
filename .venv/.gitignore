@@ -1,0 +1,18 @@
+# Configurazione e credenziali
+.env
+
+# File Python compilati
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File temporanei
+*.log
+*.tmp
+*.bak
+
+# File editor
+.vscode/
+.idea/
+.DS_Store
