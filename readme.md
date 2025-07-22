@@ -85,7 +85,7 @@ The bot will run in the background and you can start interacting with it on Tele
 
 ---
 
-## 👤 Authorization
+## Authorization
 
 Only users whose Telegram IDs are listed in `AUTHORIZED_USERS` can use the bot.
 
